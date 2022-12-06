@@ -3,5 +3,8 @@ Aplicación de peliculas creada con React Native para poder ver información act
 
 ## Diseño inicial de la App
 <br />
-<img source='./assets/Screenshot_2.png' alt='Diseño Inicial App' >
-<img source='./assets/Screenshot_3.png' alt='Diseño Inicial2 App' >
+<img src='./assets/Screenshot_2.png' alt='Diseño Inicial App' >
+<br />
+<br />
+<br />
+<img src='./assets/Screenshot_3.png' alt='Diseño Inicial2 App' >
